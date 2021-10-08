@@ -1,2 +1,15 @@
-# ex
-ex
+print("Hai Cantikk<3")
+input("pencet enter tii")
+input("kamu mau tau ngga? :")
+input("mau tau aja apa mau tau banget :")
+print("yauda aku kasi tau, tapi ketik Nabilganteng dulu")
+input("ketik disini :")
+print("iyaa tau aku ganteng")
+	#blank
+input("beneran mau tau? ")
+print("ngga ada apa apa sii aku cuman kangen utiiiii:))")
+print("♥♥♥")
+print(":*")
+print("__________________")
+print("Sekian Terimakasih")
+print("babaayyy")
